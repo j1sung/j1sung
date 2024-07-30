@@ -7,3 +7,10 @@
 ## Contacts
 ## 사용된 언어빈도
 ## 깃허브 커밋빈도
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/j1sung"
+  width="600"
+  height="300"
+/>
+</a>
