@@ -6,7 +6,10 @@
 
 Skills
 
-![Static Badge](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=C%2B%2B&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/C%23-black?style=plastic) ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=C%2B%2B&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/C%23-black?style=plastic)
+![Static Badge](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=ffffff)<br>
 ![Static Badge](https://img.shields.io/badge/Unity-black?style=plastic&logo=Unity&logoColor=ffffff)
 
 Contacts
