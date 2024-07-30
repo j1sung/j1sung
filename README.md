@@ -19,3 +19,20 @@ Contacts
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j1sung&layout=compact)](https://github.com/j1sung)
+
+<div style="display: flex; align-items: center;">
+  <a href="https://github.com/devxb/gitanimals" style="margin-right: 20px;">
+    <img
+      src="https://render.gitanimals.org/farms/j1sung"
+      width="400"
+      height="250"
+      alt="Gitanimals"
+    />
+  </a>
+  <a href="https://github.com/j1sung">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=j1sung&layout=compact"
+      alt="Top Langs"
+    />
+  </a>
+</div>
