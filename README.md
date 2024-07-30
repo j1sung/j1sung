@@ -1,6 +1,6 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&height=215&color=gradient&text=🌕%20Dalssak's%20Github&desc=🌱&descAlign=20&descAlignY=27&descSize=26&fontAlign=50&fontAlignY=44&animation=fadeIn)
 <h3 align="center">🌕Introduce🌱</h3>
- <p align="center">I'm Game Developer</p>
+ <p align="center">I'm a Game Developer</p>
 
 <h3 align="center">💌 Contacts 💬</h3>
 <div align='center'>
