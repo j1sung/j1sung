@@ -24,8 +24,8 @@ Skills
 
 
 
-<p align="center" style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://render.gitanimals.org/farms/j1sung" width="400" height="250" alt="Gitanimals" style="margin-right: 20px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j1sung&layout=compact" alt="Top Langs" />
+<p align="center">
+  <img height="180em" src="https://render.gitanimals.org/farms/j1sung" alt="Gitanimals"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j1sung&layout=compact" alt="Top Langs"/>
 </p>
 
