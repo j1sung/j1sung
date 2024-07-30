@@ -11,13 +11,9 @@ Skills
 ![Static Badge](https://img.shields.io/badge/C%23-black?style=plastic)
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=ffffff)<br>
 ![Static Badge](https://img.shields.io/badge/Unity-black?style=plastic&logo=Unity&logoColor=ffffff)
-
 Contacts
-
 사용된 언어빈도
-
 깃허브 커밋빈도
-
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/devxb/gitanimals">
     <img
