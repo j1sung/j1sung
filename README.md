@@ -14,9 +14,9 @@ Contacts
 사용된 언어빈도
 깃허브 커밋빈도
 
-<table style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td style="border: none; padding: 0 10px;">
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="border: none; padding: 0 10px; vertical-align: top;">
       <a href="https://github.com/devxb/gitanimals">
         <img
           src="https://render.gitanimals.org/farms/j1sung"
@@ -26,7 +26,7 @@ Contacts
         />
       </a>
     </td>
-    <td style="border: none; padding: 0 10px;">
+    <td style="border: none; padding: 0 10px; vertical-align: top;">
       <a href="https://github.com/j1sung">
         <img
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=j1sung&layout=compact"
@@ -36,3 +36,4 @@ Contacts
     </td>
   </tr>
 </table>
+
