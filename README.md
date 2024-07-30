@@ -15,6 +15,7 @@ Skills
 Contacts
 유튜브, 블로그, 디스코드
 <div align='center'>
+  
 [![Static Badge](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=YouTube&logoColor=ffffff)](https://www.youtube.com/@dalssak)
 [![Static Badge](https://img.shields.io/badge/Blog-03C75A?style=plastic&logo=Naver&logoColor=ffffff)](https://blog.naver.com/dalssagi)
 [![Static Badge](https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=ffffff)](https://jisung-rithm.tistory.com/)
