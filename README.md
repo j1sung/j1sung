@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=209&color=gradient&text=🌕%20Dalssak's%20Github&section=header&fontAlign=50&animation=fadeIn&desc=🌱&descSize=25&descAlignY=32&descAlign=20&fontAlignY=39)
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=215&color=gradient&text=🌕%20Dalssak's%20Github&desc=🌱&descAlign=20&descAlignY=27&descSize=26&fontAlign=50&fontAlignY=44&animation=fadeIn)
 <h3 align="center">🌕Introduce🌱</h3>
  <p align="center">I'm Game Developer</p>
 
