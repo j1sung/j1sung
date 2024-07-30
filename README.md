@@ -14,7 +14,7 @@ Contacts
 사용된 언어빈도
 깃허브 커밋빈도
 
-<table style="border-collapse: collapse; width: 100%; border: none;">
+<table style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td style="border: none; padding: 0 10px;">
       <a href="https://github.com/devxb/gitanimals">
@@ -36,4 +36,3 @@ Contacts
     </td>
   </tr>
 </table>
-
