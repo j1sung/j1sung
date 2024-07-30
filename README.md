@@ -36,11 +36,3 @@ Contacts
     </td>
   </tr>
 </table>
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/j1sung" width="400" height="250" alt="Gitanimals" style="display: inline-block;"/>
-</a>
-<a href="https://github.com/j1sung">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j1sung&layout=compact" alt="Top Langs" style="display: inline-block;"/>
-</a>
-
