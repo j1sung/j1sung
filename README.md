@@ -15,7 +15,7 @@ Skills
 Contacts
 유튜브, 블로그, 디스코드
 <div align='center'>
-  <a href="www.youtube.com/@dalssak">
+  <a href="https://www.youtube.com/@dalssak">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=YouTube&logoColor=ffffff"/>
   </a>
   <a href="https://jisung-rithm.tistory.com/">
