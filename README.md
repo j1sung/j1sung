@@ -1,9 +1,7 @@
 # 달싹이 깃허브는 공사중~
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=225&color=gradient&text=🌕%20Dalssak's%20Github&section=header&fontAlign=50&animation=fadeIn&desc=🌱&descSize=25&descAlignY=32&descAlign=20&fontAlignY=45)
-<details>
-  <summary align="center"><h3>🌕Introduce🌱</h3></summary>
-  <h4 align="center">영어 전환 or 한국어 전환</h4>
-</details>
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=209&color=gradient&text=🌕%20Dalssak's%20Github&section=header&fontAlign=50&animation=fadeIn&desc=🌱&descSize=25&descAlignY=32&descAlign=20&fontAlignY=39)
+<h3 align="center">🌕Introduce🌱</h3>
+ <p align="center">I'm Game Developer</p>
 
 <h3 align="center">💌 Contacts 💬</h3>
 <div align='center'>
