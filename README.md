@@ -29,7 +29,7 @@ Contacts
   </a>
 </div>
 
-[![Static Badge](https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=Discord&logoColor=ffffff)
+[![Static Badge](https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=Discord&logoColor=ffffff)](https://www.discord.com/users/500275466087694338)
 [![Static Badge](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=YouTube&logoColor=ffffff&link=https://www.youtube.com/@dalssak](https://www.youtube.com/@dalssak) 
 
 <p align="center" style="display: flex; align-items: center; justify-content: center;">
