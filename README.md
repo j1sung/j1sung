@@ -3,7 +3,8 @@
 ---
 영어 전환 or 한국어 전환
 간단 소개글
-Skills
+
+<h3 align="center">🎮Skills</h3>
 <div align='center'>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=C%2B%2B&logoColor=ffffff"/>
@@ -12,7 +13,7 @@ Skills
   <img src="https://img.shields.io/badge/Unity-black?style=plastic&logo=Unity&logoColor=ffffff"/>
 </div>
 
-<h3 align="center">⚡Contacts</h3>
+<h3 align="center">💌Contacts💬</h3>
 <div align='center'>
   
 [![Static Badge](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=YouTube&logoColor=ffffff)](https://www.youtube.com/@dalssak)
