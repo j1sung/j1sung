@@ -14,11 +14,15 @@ Contacts
 사용된 언어빈도
 깃허브 커밋빈도
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <a href="https://github.com/devxb/gitanimals" style="flex: 0 0 auto;">
-    <img src="https://render.gitanimals.org/farms/j1sung" width="400" height="250" alt="Gitanimals" />
-  </a>
-  <a href="https://github.com/j1sung" style="flex: 0 0 auto;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j1sung&layout=compact" alt="Top Langs" />
-  </a>
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <div style="flex: 0 0 auto;">
+    <a href="https://github.com/devxb/gitanimals">
+      <img src="https://render.gitanimals.org/farms/j1sung" width="400" height="250" alt="Gitanimals" />
+    </a>
+  </div>
+  <div style="flex: 0 0 auto;">
+    <a href="https://github.com/j1sung">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j1sung&layout=compact" alt="Top Langs" />
+    </a>
+  </div>
 </div>
