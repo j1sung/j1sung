@@ -15,6 +15,6 @@ Contacts
 깃허브 커밋빈도
 
 <p align="center">
-  <img src="https://render.gitanimals.org/farms/j1sung" width="400" height="250" alt="Gitanimals" style="margin-right: 20px;"/>
+  <img src="https://render.gitanimals.org/farms/j1sung" width="400" height="250" alt="Gitanimals"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j1sung&layout=compact" width="400" height="240" alt="Top Langs" />
 </p>
