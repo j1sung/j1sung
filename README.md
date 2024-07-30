@@ -15,9 +15,17 @@ Contacts
 깃허브 커밋빈도
 
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/j1sung" width="400" height="250" alt="Gitanimals" align="left" />
-</a>
-<a href="https://github.com/j1sung">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j1sung&layout=compact" alt="Top Langs" align="right" />
-</a>
+<table>
+  <tr>
+    <td align="left">
+      <a href="https://github.com/devxb/gitanimals">
+        <img src="https://render.gitanimals.org/farms/j1sung" width="400" height="250" alt="Gitanimals" />
+      </a>
+    </td>
+    <td align="right">
+      <a href="https://github.com/j1sung">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j1sung&layout=compact" alt="Top Langs" />
+      </a>
+    </td>
+  </tr>
+</table>
