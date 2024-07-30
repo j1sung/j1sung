@@ -29,7 +29,8 @@ Contacts
   </a>
 </div>
 
-[![Static Badge]("https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=YouTube&logoColor=ffffff&link=https://www.youtube.com/@dalssak"](https://www.youtube.com/@dalssak) 
+[![Static Badge](https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=Discord&logoColor=ffffff)
+[![Static Badge](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=YouTube&logoColor=ffffff&link=https://www.youtube.com/@dalssak](https://www.youtube.com/@dalssak) 
 
 <p align="center" style="display: flex; align-items: center; justify-content: center;">
   <img src="https://render.gitanimals.org/farms/j1sung" width="400" height="250" alt="Gitanimals" style="margin-right: 20px;"/>
