@@ -14,17 +14,14 @@ Skills
 Contacts
 사용된 언어빈도
 깃허브 커밋빈도
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/devxb/gitanimals">
-        <img src="https://render.gitanimals.org/farms/j1sung" width="400" height="250" alt="Gitanimals"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/j1sung">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j1sung&layout=compact" alt="Top Langs"/>
-      </a>
-    </td>
-  </tr>
-</table>
+
+<span>
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/j1sung" width="400" height="250" alt="Gitanimals"/>
+  </a>
+</span>
+<span style="padding-left: 20px;">
+  <a href="https://github.com/j1sung">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j1sung&layout=compact" alt="Top Langs"/>
+  </a>
+</span>
