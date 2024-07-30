@@ -12,8 +12,7 @@ Skills
   <img src="https://img.shields.io/badge/Unity-black?style=plastic&logo=Unity&logoColor=ffffff"/>
 </div>
 
-Contacts
-유튜브, 블로그, 디스코드
+<h3 align="center">⚡Contacts</h3>
 <div align='center'>
   
 [![Static Badge](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=YouTube&logoColor=ffffff)](https://www.youtube.com/@dalssak)
