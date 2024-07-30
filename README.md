@@ -25,3 +25,4 @@ Contacts
   height="250"
 />
 </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j1sung&layout=compact)](https://github.com/j1sung)
