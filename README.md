@@ -23,7 +23,7 @@
 </div>
 
 <p align="center">
-  <img height="220" src="https://render.gitanimals.org/farms/j1sung" alt="Gitanimals"/>
-  <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j1sung&layout=compact" alt="Top Langs"/>
+  <img height="220" width="400" src="https://render.gitanimals.org/farms/j1sung" alt="Gitanimals"/>
+  <img height="220" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j1sung&layout=compact" alt="Top Langs"/>
 </p>
 
