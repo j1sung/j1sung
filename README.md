@@ -4,7 +4,7 @@
 영어 전환 or 한국어 전환
 간단 소개글
 
-<h3 align="center">🎮Skills</h3>
+<h3 align="center">🎮Skills👾</h3>
 <div align='center'>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=C%2B%2B&logoColor=ffffff"/>
@@ -22,11 +22,8 @@
 [![Static Badge](https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=Discord&logoColor=ffffff)](https://www.discord.com/users/500275466087694338)
 </div>
 
-
-
-
 <p align="center">
-  <img height="180em" src="https://render.gitanimals.org/farms/j1sung" alt="Gitanimals"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j1sung&layout=compact" alt="Top Langs"/>
+  <img height="400" src="https://render.gitanimals.org/farms/j1sung" alt="Gitanimals"/>
+  <img height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j1sung&layout=compact" alt="Top Langs"/>
 </p>
 
