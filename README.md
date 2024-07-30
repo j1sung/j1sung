@@ -28,6 +28,7 @@ Contacts
     <img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=Discord&logoColor=ffffff"/>
   </a>
 </div>
+
 [![Youtube Badge]("https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=YouTube&logoColor=ffffff"](https://www.youtube.com/c/kyleschool) 
 
 <p align="center" style="display: flex; align-items: center; justify-content: center;">
