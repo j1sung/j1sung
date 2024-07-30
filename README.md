@@ -4,6 +4,12 @@
 영어 전환 or 한국어 전환
 간단 소개글
 
+<a href="https://github.com/j1sung">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=j1sung&layout=compact"
+      alt="Top Langs"
+    />
+  </a>
 Skills
 
 ![Static Badge](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=ffffff)
