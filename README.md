@@ -2,7 +2,7 @@
 <h3 align="center">🌕↓ntroduce🌱</h3>
 <div align='center'>
  
-[![Dalssak_Profile](https://img.shields.io/badge/I'm_a_Game_Programmer-%23D7FF64?style=for-the-badge)](https://dalssagi.notion.site/Dalssak-ab9b9d37ef864128b47a9adfabc4d5ab?pvs=4)
+[![Dalssak_Profile](https://img.shields.io/badge/Who_Is_Dalssak%3F-%23D7FF64?style=for-the-badge)](https://dalssagi.notion.site/Dalssak-ab9b9d37ef864128b47a9adfabc4d5ab?pvs=4)
 
 </div>
 
