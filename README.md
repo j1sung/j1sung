@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=215&color=gradient&text=🌕%20Dalssak's%20Github&desc=🌱&descAlign=20&descAlignY=27&descSize=26&fontAlign=50&fontAlignY=44&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=215&color=gradient&text=🌕%20Dalssak's%20Github&desc=🌱&descAlign=19.5&descAlignY=27&descSize=26&fontAlign=50&fontAlignY=44&animation=fadeIn)
 <h3 align="center">🌕↓ntroduce🌱</h3>
 <div align='center'>
  
