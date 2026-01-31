@@ -8,10 +8,11 @@
 
 <h3 align="center">💌 Contacts 💬</h3>
 <div align='center'>
-  
-[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=YouTube&logoColor=ffffff)](https://www.youtube.com/@dalssak)
+
 [![NaverBlog Badge](https://img.shields.io/badge/Blog-03C75A?style=plastic&logo=Naver&logoColor=ffffff)](https://blog.naver.com/dalssagi)
 [![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=ffffff)](https://jisung-rithm.tistory.com/)
+<br>
+[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=YouTube&logoColor=ffffff)](https://www.youtube.com/@dalssak)
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=Discord&logoColor=ffffff)](https://www.discord.com/users/500275466087694338)
 </div>
 
@@ -20,7 +21,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=C%2B%2B&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/C%23-black?style=plastic"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=ffffff"/><br>
+  <br>
   <img src="https://img.shields.io/badge/Unity-black?style=plastic&logo=Unity&logoColor=ffffff"/>
   <img alt="Static Badge" src="https://img.shields.io/badge/Unreal-%230E1128?style=plastic&logo=unrealengine&logoColor=ffffff">
 
