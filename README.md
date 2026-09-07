@@ -7,14 +7,17 @@
 
 </div>
 -->
+
+<!--
 <h3 align="center">💌 Contacts 💬</h3>
 <div align='center'>
 
-<!--[![NaverBlog Badge](https://img.shields.io/badge/Blog-03C75A?style=plastic&logo=Naver&logoColor=ffffff)](https://blog.naver.com/dalssagi)-->
+[![NaverBlog Badge](https://img.shields.io/badge/Blog-03C75A?style=plastic&logo=Naver&logoColor=ffffff)](https://blog.naver.com/dalssagi)
 [![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=ffffff)](https://jisung-rithm.tistory.com/)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=YouTube&logoColor=ffffff)](https://www.youtube.com/@dalssak)
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=Discord&logoColor=ffffff)](https://www.discord.com/users/500275466087694338)
 </div>
+-->
 
 <h3 align="center">🎮 Stack 👾</h3>
 <div align='center'>
