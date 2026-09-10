@@ -33,26 +33,16 @@
 |:---:|---|---|
 | `2025.09 ~ 진행 중` | [**GAON**](https://github.com/j1sung/GAON2D) | Unity · C# |
 
-#### 2026
-| 기간 | 프로젝트 | 기술 |
-|:---:|---|---|
-| `2026.06 ~ 2026.07` | [**Pragmata 모작(멀티)**](https://github.com/j1sung/Pragmata_2P_Clean) | Unreal · C++ |
-| `2026.05` | [**404: Tomorrow Not Found**](https://github.com/j1sung/Project_404) | Unreal · C++ |
-| `2026.03 ~ 2026.04` | [GhostInTheCore](https://github.com/j1sung/GhostInTheCore) | Unreal · Blueprint |
-| `2026.03` | [ESCAPE](https://github.com/j1sung/ESCAPE) | C++ 콘솔 |
-| `2026.02` | [BlackWhite](https://github.com/j1sung/BlackWhite) | C++ 콘솔 |
-
-#### 2025
-| 기간 | 프로젝트 | 기술 |
-|:---:|---|---|
-| `2025.08 ~ 2026.01` | [**잇는다는 건**](https://github.com/j1sung/ReMake) | Unity · C# |
-
-#### 2024
-| 기간 | 프로젝트 | 기술 |
-|:---:|---|---|
-| `2024.10.31 ~ 11.01` | [스마일게이트 게임잼(Hope)](https://github.com/j1sung/hope-gamejam) | Unity · C# |
-| `2024.10 ~ 2024.12` | [게임 AI 논문 연구](https://github.com/j1sung/AAPPO/tree/main) | Unity · C# |
-
+| 연도 | 기간 | 프로젝트 | 기술 |
+|:---:|:---:|---|---|
+| **2026** | `2026.06 ~ 07` | [**Pragmata 모작(멀티)**](https://github.com/j1sung/Pragmata_2P_Clean) | Unreal · C++ |
+|  | `2026.05` | [**404: Tomorrow Not Found**](https://github.com/j1sung/Project_404) | Unreal · C++ |
+|  | `2026.03 ~ 04` | [GhostInTheCore](https://github.com/j1sung/GhostInTheCore) | Unreal · Blueprint |
+|  | `2026.03` | [ESCAPE](https://github.com/j1sung/ESCAPE) | C++ 콘솔 |
+|  | `2026.02` | [BlackWhite](https://github.com/j1sung/BlackWhite) | C++ 콘솔 |
+| **2025** | `2025.08 ~ 2026.01` | [**잇는다는 건**](https://github.com/j1sung/ReMake) | Unity · C# |
+| **2024** | `2024.10.31 ~ 11.01` | [스마일게이트 게임잼(Hope)](https://github.com/j1sung/hope-gamejam) | Unity · C# |
+|  | `2024.10 ~ 12` | [게임 AI 논문 연구](https://github.com/j1sung/AAPPO/tree/main) | Unity · C# |
 ## 🎮 Stack 👾
 
 | Category | Stack |
