@@ -31,7 +31,7 @@
 ### 🔄 Ongoing
 | 기간 | 프로젝트 | 기술 |
 |:---:|---|---|
-| `2025.09 ~ 2026.02.08` | [**대학 졸작**](https://github.com/j1sung/DKU-EndGame) | Unreal · C++ |
+| `2026.09 ~ 2026.11` | [**대학 졸작**](https://github.com/j1sung/DKU-EndGame) | Unreal · C++ |
 
 | 연도 | 기간 | 프로젝트 | 기술 |
 |:---:|:---:|---|---|
