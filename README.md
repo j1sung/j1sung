@@ -33,17 +33,18 @@
 |:---:|---|---|
 | `2026.09 ~ 2026.11` | [**대학 졸작**](https://github.com/j1sung/DKU-EndGame) | Unreal · C++ |
 
-| 연도 | 기간 | 프로젝트 | 기술 |
-|:---:|:---:|---|---|
-| **2026** | `2026.06 ~ 07` | [**Pragmata 모작(코옵 재해석)**](https://github.com/j1sung/Pragmata_2P_Clean) | Unreal · C++ |
-|  | `2026.05` | [**404: Tomorrow Not Found**](https://github.com/j1sung/Project_404/tree/dev) | Unreal · C++ |
-|  | `2026.03 ~ 04` | [GhostInTheCore](https://github.com/j1sung/GhostInTheCore) | Unreal · Blueprint |
-|  | `2026.03` | [ESCAPE](https://github.com/j1sung/ESCAPE) | C++ 콘솔 |
-|  | `2026.02` | [BlackWhite](https://github.com/j1sung/BlackWhite) | C++ 콘솔 |
-| **2025** | `2025.08 ~ 2026.01` | [**잇는다는 건**](https://github.com/j1sung/ReMake) | Unity · C# |
-|  |`2025.07 ~ 2026.01` | [**GAON**](https://github.com/j1sung/GAON2D) | Unity · C# |
-| **2024** | `2024.10.31 ~ 11.01` | [스마일게이트 게임잼(Hope)](https://github.com/j1sung/hope-gamejam) | Unity · C# |
-|  | `2024.10 ~ 12` | [게임 AI 논문 연구](https://github.com/j1sung/AAPPO/tree/main) | Unity · C# |
+| 연도 | 기간 | 프로젝트 | 기술 | 기여 |
+|:---:|:---:|---|---|---|
+| **2026** | `2026.06 ~ 07` | [**Pragmata 모작(코옵 재해석)**](https://github.com/j1sung/Pragmata_2P_Clean) | Unreal · C++ | 기획/레벨디자인 · 적 AI 개발 |
+|  | `2026.05` | [**404: Tomorrow Not Found**](https://github.com/j1sung/Project_404/tree/dev) | Unreal · C++ | 기획/레벨디자인 · 적 AI 개발 |
+|  | `2026.03 ~ 04` | [GhostInTheCore](https://github.com/j1sung/GhostInTheCore) | Unreal · Blueprint | 1인 개발 |
+|  | `2026.03` | [ESCAPE](https://github.com/j1sung/ESCAPE) | C++ 콘솔 | 1인 개발 |
+|  | `2026.02` | [BlackWhite](https://github.com/j1sung/BlackWhite) | C++ 콘솔 | 1인 개발 |
+| **2025** | `2025.08 ~ 2026.01` | [**잇는다는 건**](https://github.com/j1sung/ReMake) | Unity · C# | 핵심 퍼즐/도감 시스템 개발 |
+|  |`2025.07 ~ 2026.01` | [**GAON**](https://github.com/j1sung/GAON2D) | Unity · C# | 적 AI 개발 |
+|  |`2025.05 ~ 2025.06` | [신궁](https://github.com/j1sung/God-of-Archer) | Unity · C# | 플레이어 개발 |
+| **2024** | `2024.10.31 ~ 11.01` | [스마일게이트 게임잼(Hope)](https://github.com/j1sung/hope-gamejam) | Unity · C# | 기획 · 상호작용/UI 개발 |
+|  | `2024.10 ~ 12` | [게임 AI 논문 연구](https://github.com/j1sung/AAPPO/tree/main) | Unity · C# | 게임 메니저/루프 개발, 1:1 멀티 환경 개발 |
 ## 🎮 Stack 👾
 
 | Category | Stack |
