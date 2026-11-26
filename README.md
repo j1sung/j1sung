@@ -35,7 +35,7 @@
 
 | 연도 | 기간 | 프로젝트 | 기술 | 기여 |
 |:---:|:---:|---|---|---|
-| **2026** | `2026.06 ~ 07` | [**Pragmata 모작(코옵 재해석)**](https://github.com/j1sung/Pragmata_2P_Clean) | Unreal · C++ | 기획/레벨디자인 · 적 AI 개발 |
+| **2026** | `2026.06 ~ 07` | [**Pragmata_2P(모작/코옵 재해석)**](https://github.com/j1sung/Pragmata_2P_Clean) | Unreal · C++ | 기획/레벨디자인 · 적 AI 개발 |
 |  | `2026.05` | [**404: Tomorrow Not Found**](https://github.com/j1sung/Project_404/tree/dev) | Unreal · C++ | 기획/레벨디자인 · 적 AI 개발 |
 |  | `2026.03 ~ 04` | [GhostInTheCore](https://github.com/j1sung/GhostInTheCore) | Unreal · Blueprint | 1인 개발 |
 |  | `2026.03` | [ESCAPE](https://github.com/j1sung/ESCAPE) | C++ 콘솔 | 1인 개발 |
